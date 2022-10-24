@@ -105,7 +105,19 @@ const linkData = [
     
 
   },
+{
 
+    id: 4,
+
+    link: "mailto:henlo@borkcorp.com",
+
+    name: "Email",
+
+    image:
+
+      "https://imgur.com/a/7ZSIL7l",
+
+  },
 ];
 
 
