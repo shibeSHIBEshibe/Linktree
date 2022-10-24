@@ -66,7 +66,7 @@ const linkData = [
 
     id: 1,
 
-    link: "t.me/egghoe",
+    link: "https://t.me/egghoe",
 
     name: "Telegram",
 
