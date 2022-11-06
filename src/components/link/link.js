@@ -24,7 +24,7 @@ const Link = () => {
               <LazyLoadImage
                 id="image"
                 effect="blur"
-                src={`https://ui-avatars.com/api/?rounded=true&name=${item.name}&background=random`}
+                src={item.image}
                 alt="my_profile_image"
               />
               <p className="text-center">{item.name}</p>
