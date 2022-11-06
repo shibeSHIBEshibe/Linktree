@@ -72,7 +72,7 @@ const linkData = [
 
     image:
 
-      "https://imgur.com/a/lE4l4dX",
+      "https://i.imgur.com/hQglAyI.png",
 
   },
 
@@ -86,7 +86,7 @@ const linkData = [
 
     image:
 
-      "https://imgur.com/a/7ZSIL7l",
+      "https://i.imgur.com/QAeWqFi.jpg",
 
   },
 
@@ -100,7 +100,7 @@ const linkData = [
 
     image:
 
-      "https://imgur.com/a/BAfpC9H",
+      "https://i.imgur.com/SKGCAcp.jpg",
 
     
 
@@ -115,11 +115,22 @@ const linkData = [
 
     image:
 
-      "https://imgur.com/a/7ZSIL7l",
+      "https://i.imgur.com/sNObxZH.png",
 
   },
 ];
 
+  id: 4,
 
+    link: "https://t.me/oliverstuff",
+
+    name: "My Telegram Channel!",
+
+    image:
+
+      "https://i.imgur.com/b3Tiwhc.jpg",
+
+  },
+];
 
 export { socialLinks, profileData, linkData, themeData };
