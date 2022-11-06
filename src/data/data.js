@@ -118,7 +118,7 @@ const linkData = [
       "https://i.imgur.com/sNObxZH.png",
 
   },
-];
+]
 
   id: 5,
 
